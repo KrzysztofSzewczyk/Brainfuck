@@ -140,7 +140,7 @@ public class BF {
                     break;
                 }
                 case '<':{
-                    pointer-;
+                    pointer--;
                     break;
                 }
                 case '[':{
