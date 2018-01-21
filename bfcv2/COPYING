@@ -1,0 +1,19 @@
+This project WAS licensed under GPL, but project only author
+permitted me (not indirectly) to change project's license.
+
+"I haven't touched this project in about 10 years. At this point I don't
+think there's any value in it, and that it isn't worth salvaging. I only
+keep it around for posterity, to look back at where I was at this point
+in my programming career. So I just want my repository frozen like it
+was, flaws and all.
+
+If you find this interesting and want to run with it yourself, go ahead!
+Make it your own. I'll even change the license if you like, since I use
+the public domain for all much open source stuff now-a-days.
+
+However, a few years ago I made a far more interesting project that
+directly generates machine code. You might want to look at that instead:
+
+https://github.com/skeeto/bf-x86" - skeeto
+
+Current license is located under LICENSE.
