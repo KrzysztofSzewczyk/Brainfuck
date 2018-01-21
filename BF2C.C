@@ -1,3 +1,6 @@
+//This code was derived from KrzysztofSzewczyk
+// / Obfuscated repository.
+
 #include<stdio.h> //Made by Krzysztof Szewczyk
 #include<string.h>//Poland,  2017-12-08  16:00
 int d(char*s){int r=0;for(int i=0;i<strlen(s);
