@@ -1,7 +1,3 @@
-// Emulator of Subleq language (and its derivatives)
-// Oleg Mazonka, 10 Nov 2006, 19 Jan 2009
-// addleq 22 Sept 2009
-// p1eq   28 Sept 2009
 
 #include <iostream>
 #include <fstream>
