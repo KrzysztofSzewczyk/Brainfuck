@@ -1,5 +1,3 @@
-// Usage: sqasm < file.in > file.out
-// Oleg Mazonka: 10 Nov 2006; 22 Jan 2009; 11 Sept 2009
 
 #include <iostream>
 #include <string>
