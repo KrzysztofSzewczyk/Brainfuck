@@ -1,0 +1,17 @@
+
+This file is associated with BRAINFUCK.ASM.
+
+Creating application: `copy brainfuk.com+program.bf output.com`
+
+Specification:
+
+8-bit, 510 cells
+max code size is 32K
+one extra terminating space character is required
+no newline character conversions on i/o
+when redirecting file something may fuck up
+up to 255 nested loops
+
+Any ideas on making this smaller are welcome.
+
+This thing may appear in Brainfuck Builder 3/4, whenever I'll want to update it.
