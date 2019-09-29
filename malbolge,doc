@@ -1,0 +1,4 @@
+Malbolge.7z contains a PPMd packed Malbolge Unshackled program, that is able to interpret at most
+12-bytes long Malbolge programs. The program and it's input have to be separated from each other using a newline.
+The first newline will be treated as a separator. If you manage to successfully run any program, please e-mail me.
+                                                                                        ~~ kspalaiologos on GMail.
